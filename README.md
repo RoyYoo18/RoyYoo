@@ -1,5 +1,4 @@
 # RoyYoo
-personal repository
 <h1 align="center">Hi 👋, I'm Roy Yoo</h1>
 <h3 align="center">A passionate frontend developer from the United States</h3>
 
