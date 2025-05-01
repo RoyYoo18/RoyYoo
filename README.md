@@ -16,7 +16,7 @@ I am a starting and still learning frontend developer that is born in South Kore
                   ### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                       <a href="https://www.github.com/royyoo18" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
