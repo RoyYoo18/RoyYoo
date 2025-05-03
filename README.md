@@ -1,7 +1,7 @@
 Hi 👋 My name is Roy Yoo
 ========================
 
-A passionate frontend developer from Korea
+A passionate frontend developer born in South Korea (now in the U.S.)
 ------------------------------------------
 
 I am a starting and still learning frontend developer that is born in South Korea.
